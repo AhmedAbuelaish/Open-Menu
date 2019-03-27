@@ -1,4 +1,4 @@
-# Munchies
+# Open-Menu
 [![Build Status](https://travis-ci.com/AhmedAbuelaish/Open-Menu.svg?branch=master)](https://travis-ci.com/AhmedAbuelaish/Open-Menu)
 
 Munchies is a restaurant app that helps the user explore food in their area. Restaurants will automatically populate based on the user's location, and can be further explored via search by name or cuisine type. Visitors can create an account to save restaurants to their list of Favorites, or to their list of restaurants to Visit.
